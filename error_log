@@ -1,0 +1,12 @@
+[06-Nov-2014 22:51:57 America/Chicago] PHP Warning:  include(navbar.html): failed to open stream: No such file or directory in /home2/fsbckw/public_html/musictos.php on line 21
+[06-Nov-2014 22:51:57 America/Chicago] PHP Warning:  include(navbar.html): failed to open stream: No such file or directory in /home2/fsbckw/public_html/musictos.php on line 21
+[06-Nov-2014 22:51:57 America/Chicago] PHP Warning:  include(): Failed opening 'navbar.html' for inclusion (include_path='.:/opt/php54/lib/php') in /home2/fsbckw/public_html/musictos.php on line 21
+[06-Nov-2014 22:51:57 America/Chicago] PHP Warning:  include(footer.html): failed to open stream: No such file or directory in /home2/fsbckw/public_html/musictos.php on line 88
+[06-Nov-2014 22:51:57 America/Chicago] PHP Warning:  include(footer.html): failed to open stream: No such file or directory in /home2/fsbckw/public_html/musictos.php on line 88
+[06-Nov-2014 22:51:57 America/Chicago] PHP Warning:  include(): Failed opening 'footer.html' for inclusion (include_path='.:/opt/php54/lib/php') in /home2/fsbckw/public_html/musictos.php on line 88
+[06-Nov-2014 22:52:46 America/Chicago] PHP Warning:  include(navbar.html): failed to open stream: No such file or directory in /home2/fsbckw/public_html/musictos.php on line 21
+[06-Nov-2014 22:52:46 America/Chicago] PHP Warning:  include(navbar.html): failed to open stream: No such file or directory in /home2/fsbckw/public_html/musictos.php on line 21
+[06-Nov-2014 22:52:46 America/Chicago] PHP Warning:  include(): Failed opening 'navbar.html' for inclusion (include_path='.:/opt/php54/lib/php') in /home2/fsbckw/public_html/musictos.php on line 21
+[06-Nov-2014 22:52:46 America/Chicago] PHP Warning:  include(footer.html): failed to open stream: No such file or directory in /home2/fsbckw/public_html/musictos.php on line 88
+[06-Nov-2014 22:52:46 America/Chicago] PHP Warning:  include(footer.html): failed to open stream: No such file or directory in /home2/fsbckw/public_html/musictos.php on line 88
+[06-Nov-2014 22:52:46 America/Chicago] PHP Warning:  include(): Failed opening 'footer.html' for inclusion (include_path='.:/opt/php54/lib/php') in /home2/fsbckw/public_html/musictos.php on line 88

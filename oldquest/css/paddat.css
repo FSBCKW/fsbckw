@@ -1,0 +1,17 @@
+body {
+  padding-top: 50px;
+}
+.starter-template {
+  padding: 10px 15px;
+  text-align: center;
+}
+
+.center {
+    text-align:center;
+}
+
+.Absolute-Center {
+  margin: auto;
+  position: absolute;
+  top: 0; left: 0; bottom: 0; right: 0;
+}

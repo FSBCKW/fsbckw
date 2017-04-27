@@ -1,0 +1,17 @@
+[31-Mar-2015 23:53:06 America/Chicago] PHP Parse error:  syntax error, unexpected 'mail' (T_STRING) in /home2/fsbckw/public_html/quest/clues.php on line 25
+[31-Mar-2015 23:53:16 America/Chicago] PHP Parse error:  syntax error, unexpected 'mail' (T_STRING) in /home2/fsbckw/public_html/quest/clues.php on line 25
+[01-Apr-2015 00:02:13 America/Chicago] PHP Parse error:  syntax error, unexpected ';', expecting ')' in /home2/fsbckw/public_html/quest/clues.php on line 4
+[01-Apr-2015 00:05:59 America/Chicago] PHP Parse error:  syntax error, unexpected 'else' (T_ELSE) in /home2/fsbckw/public_html/quest/clues.php on line 25
+[01-Apr-2015 00:07:06 America/Chicago] PHP Parse error:  syntax error, unexpected 'else' (T_ELSE) in /home2/fsbckw/public_html/quest/clues.php on line 25
+[01-Apr-2015 00:07:08 America/Chicago] PHP Parse error:  syntax error, unexpected 'else' (T_ELSE) in /home2/fsbckw/public_html/quest/clues.php on line 25
+[01-Apr-2015 00:07:18 America/Chicago] PHP Parse error:  syntax error, unexpected 'else' (T_ELSE) in /home2/fsbckw/public_html/quest/clues.php on line 25
+[01-Apr-2015 00:08:13 America/Chicago] PHP Parse error:  syntax error, unexpected ';', expecting ')' in /home2/fsbckw/public_html/quest/clues.php on line 4
+[01-Apr-2015 00:08:19 America/Chicago] PHP Parse error:  syntax error, unexpected ';', expecting ')' in /home2/fsbckw/public_html/quest/clues.php on line 4
+[03-Apr-2015 19:13:04 America/Chicago] PHP Parse error:  syntax error, unexpected ')' in /home2/fsbckw/public_html/quest/clues.php on line 60
+[03-Apr-2015 19:13:09 America/Chicago] PHP Parse error:  syntax error, unexpected ')' in /home2/fsbckw/public_html/quest/clues.php on line 60
+[03-Apr-2015 19:13:26 America/Chicago] PHP Parse error:  syntax error, unexpected ')' in /home2/fsbckw/public_html/quest/clues.php on line 60
+[03-Apr-2015 19:13:49 America/Chicago] PHP Parse error:  syntax error, unexpected ')' in /home2/fsbckw/public_html/quest/clues.php on line 60
+[03-Apr-2015 19:14:00 America/Chicago] PHP Parse error:  syntax error, unexpected ')' in /home2/fsbckw/public_html/quest/clues.php on line 60
+[03-Apr-2015 19:14:14 America/Chicago] PHP Parse error:  syntax error, unexpected ')' in /home2/fsbckw/public_html/quest/clues.php on line 60
+[03-Apr-2015 19:27:03 America/Chicago] PHP Parse error:  syntax error, unexpected ')' in /home2/fsbckw/public_html/quest/clues.php on line 61
+[03-Apr-2015 19:27:40 America/Chicago] PHP Parse error:  syntax error, unexpected ')' in /home2/fsbckw/public_html/quest/clues.php on line 61

@@ -1,0 +1,125 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<juiceboxgallery 
+
+	useLargeImages="2048"
+	useSmallImages="800"
+	galleryTitle="The Great Key West Quest"
+	useFullscreenExpand="false"
+	indexPageName="testthegallery.html"
+	backgroundColor="rgba(6,6,6,1)"
+
+>
+  <image imageURL="images/photo.jpg"
+	thumbURL="thumbs/photo.jpg"
+	linkURL="images/photo.jpg"
+	linkTarget="_blank"
+	sourcePath="C:\Users\Jeffrey\Documents\Web Design\GKWQ\images\photo.jpg">
+    <title><![CDATA[Last Year's Winners]]></title>
+    <caption><![CDATA[Submitted by Patricia Dowling]]></caption>
+  </image>
+  <image imageURL="images/001.jpg"
+	thumbURL="thumbs/001.jpg"
+	linkURL="images/001.jpg"
+	linkTarget="_blank"
+	sourcePath="C:\Users\Jeffrey\Downloads\001.jpg">
+    <title><![CDATA[The Toxic Conchquesters]]></title>
+    <caption><![CDATA[Submitted by Danny Cabot ]]></caption>
+  </image>
+  <image imageURL="images/quest 074.jpg"
+	thumbURL="thumbs/quest 074.jpg"
+	linkURL="images/quest 074.jpg"
+	linkTarget="_blank"
+	sourcePath="C:\Users\Jeffrey\Downloads\quest 074.JPG">
+    <title><![CDATA[]]></title>
+    <caption><![CDATA[Submitted by Dave Parker]]></caption>
+  </image>
+  <image imageURL="images/quest 075.jpg"
+	thumbURL="thumbs/quest 075.jpg"
+	linkURL="images/quest 075.jpg"
+	linkTarget="_blank"
+	sourcePath="C:\Users\Jeffrey\Downloads\quest 075.JPG">
+    <title><![CDATA[]]></title>
+    <caption><![CDATA[Submitted by Dave Parker]]></caption>
+  </image>
+  <image imageURL="images/quest 079.jpg"
+	thumbURL="thumbs/quest 079.jpg"
+	linkURL="images/quest 079.jpg"
+	linkTarget="_blank"
+	sourcePath="C:\Users\Jeffrey\Downloads\quest 079.JPG">
+    <title><![CDATA[]]></title>
+    <caption><![CDATA[Submitted by Dave Parker]]></caption>
+  </image>
+  <image imageURL="images/quest 089.jpg"
+	thumbURL="thumbs/quest 089.jpg"
+	linkURL="images/quest 089.jpg"
+	linkTarget="_blank"
+	sourcePath="C:\Users\Jeffrey\Downloads\quest 089.JPG">
+    <title><![CDATA[]]></title>
+    <caption><![CDATA[Submitted by Dave Parker]]></caption>
+  </image>
+  <image imageURL="images/DSC_0997.jpg"
+	thumbURL="thumbs/DSC_0997.jpg"
+	linkURL="images/DSC_0997.jpg"
+	linkTarget="_blank"
+	sourcePath="C:\Users\Jeffrey\Desktop\quest\DSC_0997.JPG">
+    <title><![CDATA[Winners 2014: KWESST]]></title>
+    <caption><![CDATA[Submitted by: Jeffrey Matthews]]></caption>
+  </image>
+  <image imageURL="images/DSC_1039.jpg"
+	thumbURL="thumbs/DSC_1039.jpg"
+	linkURL="images/DSC_1039.jpg"
+	linkTarget="_blank"
+	sourcePath="C:\Users\Jeffrey\Desktop\quest\DSC_1039.JPG">
+    <title><![CDATA[]]></title>
+    <caption><![CDATA[Submitted by: Jeffrey Matthews]]></caption>
+  </image>
+  <image imageURL="images/DSC_1001.jpg"
+	thumbURL="thumbs/DSC_1001.jpg"
+	linkURL="images/DSC_1001.jpg"
+	linkTarget="_blank"
+	sourcePath="C:\Users\Jeffrey\Desktop\quest\DSC_1001.JPG">
+    <title><![CDATA[The Bandits]]></title>
+    <caption><![CDATA[Submitted by: Jeffrey Matthews]]></caption>
+  </image>
+  <image imageURL="images/DSC_1021.jpg"
+	thumbURL="thumbs/DSC_1021.jpg"
+	linkURL="images/DSC_1021.jpg"
+	linkTarget="_blank"
+	sourcePath="C:\Users\Jeffrey\Desktop\quest\DSC_1021.JPG">
+    <title><![CDATA[Key Lime Krusaders]]></title>
+    <caption><![CDATA[Submitted by: Jeffrey Matthews]]></caption>
+  </image>
+  <image imageURL="images/DSC_1007.jpg"
+	thumbURL="thumbs/DSC_1007.jpg"
+	linkURL="images/DSC_1007.jpg"
+	linkTarget="_blank"
+	sourcePath="C:\Users\Jeffrey\Desktop\quest\DSC_1007.JPG">
+    <title><![CDATA[]]></title>
+    <caption><![CDATA[]]></caption>
+  </image>
+  <image imageURL="images/DSC_1008.jpg"
+	thumbURL="thumbs/DSC_1008.jpg"
+	linkURL="images/DSC_1008.jpg"
+	linkTarget="_blank"
+	sourcePath="C:\Users\Jeffrey\Desktop\quest\DSC_1008.JPG">
+    <title><![CDATA[]]></title>
+    <caption><![CDATA[]]></caption>
+  </image>
+  <image imageURL="images/DSC_1011.jpg"
+	thumbURL="thumbs/DSC_1011.jpg"
+	linkURL="images/DSC_1011.jpg"
+	linkTarget="_blank"
+	sourcePath="C:\Users\Jeffrey\Desktop\quest\DSC_1011.JPG">
+    <title><![CDATA[]]></title>
+    <caption><![CDATA[]]></caption>
+  </image>
+  <image imageURL="images/DSC_1023.jpg"
+	thumbURL="thumbs/DSC_1023.jpg"
+	linkURL="images/DSC_1023.jpg"
+	linkTarget="_blank"
+	sourcePath="C:\Users\Jeffrey\Desktop\quest\DSC_1023.JPG">
+    <title><![CDATA[]]></title>
+    <caption><![CDATA[]]></caption>
+  </image>
+</juiceboxgallery>
