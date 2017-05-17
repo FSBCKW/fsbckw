@@ -74,7 +74,7 @@ include 'navbar.html';
                         
                         <td><a href="mailto:dave.parker@fsbckw.org">Dave Parker</a></td>
                         <td> - </td>
-                        <td>305-766-5949</td>
+                        <td>305-834-0612</td>
                     </tr>
                     
                     <tr>

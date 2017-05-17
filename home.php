@@ -38,21 +38,37 @@
     </p>
 </div>
 <hr />
+     <div class="row">
+          <div class="col-lg-12">
+            <h2 id="type-blockquotes">A Note from the Pastor</h2>
+          </div>
+        </div>
+    <div class="row">
+        <div class="col-lg-12">
+          <blockquote>
+  <p>Dear Beloved, <br />
+              The scriptuures tell us that there is a time for every purpose under heaven. For some time now due to health and family reasons, Nancy and I have comtemplated stepping out of full-time ministry and prusuing a semi-retirement lufestyle. The time is now right for us to make this decision and I am now announcing that intent to do so effective 1 month from today. Our last Sunday will be May 21 and we will always cherish the time we have had at Fifth Street. We will leave you with our love, prayers, and best wishes as you continue to reach Key West for Jesus. <br />
+              Respectfully Submitted,</p>
+  <small>Rev. Ozzie Vater <cite title="Source Title">April 23, 2017</cite></small>
+</blockquote>
+        </div>
+    </div>
+  
 <div class="container">
     <h1>Current Events</h1>
-    <!--<div class="row">
-         <div class="col-md-12">
-            <h3>The Great Key West Quest</h3>
-          <p><img src="img/questtease.png" class="img-responsive" width="100%"><br />
-                <p>It's almost time again. More info soon!</a>
+   <div class="row">
+         <div class="col-lg-6">
+            <h3>Baccalaureate</h3>
+          <p><img src="img/bacca2017.png" class="img-responsive" width="100%"><br />
+               
 </p>
-            <p><a class="btn btn-default" href="http://www.firstplace4health.com/" role="button">More info &raquo;</a></p>
+           
             </div> 
            
                       
-        </div> -->
+        </div>
     <div class="row">
-        <div class="col-md-12">
+        <div class="col-lg-6">
             <h3>Vacation Bible School</h3>
             <p><img src="img/vbs2017.png" class="img-responsive" width="100%"></p>
                 <br />
