@@ -75,6 +75,7 @@ include 'navbar.html';
                         <td><a href="mailto:dave.parker@fsbckw.org">Dave Parker</a></td>
                         <td> - </td>
                         <td>305-834-0612</td>
+                        <td><img src="img/Deacon%20Dave%20(2).png" class="img-circle" width="20%"></td>
                     </tr>
                     
                     <tr>
